@@ -1,0 +1,22 @@
+{
+  "name": "Sarthak Chaudhary",
+  "type": "Personal",
+  "bio": "Student at Institute of Engineering and Rural Technology pusrsuing B.Tech from Computer Science Currently in Second Year"
+  "Links": [
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/sarthak__995/",
+      "icon": "FaInstagram"
+    }
+    {
+      "name": "Lets Connect on Linkedin",
+      "url": "https://www.linkedin.com/in/sarthak-chaudhary-305b90259/",
+      "icon": "FaLinkedin"
+    }
+    {
+      "name": "My Leetcode Profile",
+      "url": "https://leetcode.com/sarthak6596/",
+      "icon": "SiLeetcode"
+    }
+  ]
+}
